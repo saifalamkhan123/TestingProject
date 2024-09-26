@@ -1,0 +1,19 @@
+﻿# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.csproj.webinfo
+*.dbmdl
+*.log
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore any folders or files related to IDEs
+.vscode/
+.idea/
+
+# Ignore Mac system files
+.DS_Store
